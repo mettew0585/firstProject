@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+body {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+.head {
+  display: flex;
+  justify-content: center;
+}
+.photo-chohyeonwoo {
+  display: flex;
+  justify-content: space-between;
+}
+.photo {
+  height: 500px;
+}

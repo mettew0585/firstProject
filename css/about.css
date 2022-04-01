@@ -1,0 +1,14 @@
+.introduction {
+  margin-top: 60px;
+}
+.introduction__career {
+  display: flex;
+  justify-content: left;
+}
+img {
+  width: 150px;
+  height: 180px;
+}
+#just-photo {
+  margin-left: 20px;
+}

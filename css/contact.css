@@ -1,0 +1,12 @@
+#how-to-contact {
+  margin-top: 50px;
+}
+.contacts {
+  list-style-type: none;
+}
+.contacts li {
+  margin-top: 10px;
+}
+.contacts li:first-child {
+  margin-top: 0;
+}
